@@ -10,3 +10,4 @@
 ## 三、文件说明
 1. led_blink.ino：本次实验源代码文件
 2. assets/led_blink_demo.mp4：LED闪烁硬件运行实拍演示视频
+本次实验包含源码、演示视频、说明文档
